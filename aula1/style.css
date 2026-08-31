@@ -1,0 +1,56 @@
+
+#titulo {
+    color: #093833;
+    text-align: center;
+}
+
+.sub {
+    text-align: center;
+    color: #093833;
+}
+
+.Seminario {
+    color: #093833;
+    text-align: center;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+}
+.Seminario2 {
+    color: #093833;
+    text-align: center;
+}
+
+.container-cachoeira {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.cachoeira {
+    width: 600px;
+    height: auto;
+    border-radius: 8px; }
+    .sub {
+    text-align: center;
+    color: #093833;
+}
+.titulocacho {
+    text-align: center;
+    color: #093833;
+}
+
+.tituloparque {
+    text-align: center;
+    color: #093833;
+}
+ 
+.container-parque {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px;
+}
